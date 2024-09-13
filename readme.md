@@ -85,9 +85,6 @@ Directories
 └── SeoulRobotics_Hung_Yi_Luo
     ├── readme.md
     ├── SeoulRoboticsTakeHome.sln
-    ├── x64
-        └── Debug
-            └── SeoulRoboticsTakeHome.exe
     └── SeoulRoboticsTakeHome
         ├── SeoulRoboticsTakeHome.cpp
         ├── algo.cpp
