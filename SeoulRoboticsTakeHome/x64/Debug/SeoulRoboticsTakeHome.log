@@ -1,5 +1,0 @@
-﻿  algo.cpp
-  SeoulRoboticsTakeHome.cpp
-C:\Users\Romi\Desktop\SeoulRobotics_Hung_Yi_Luo\SeoulRoboticsTakeHome\algo.cpp(228,21): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
-  正在產生程式碼...
-  SeoulRoboticsTakeHome.vcxproj -> C:\Users\Romi\Desktop\SeoulRobotics_Hung_Yi_Luo\x64\Debug\SeoulRoboticsTakeHome.exe
