@@ -82,13 +82,14 @@ Directories
 
 ```
 
-¢|¢w¢w SeoulRobotics_Hung_Yi_Luo
-    ¢u¢w¢w readme.md
-    ¢u¢w¢w SeoulRoboticsTakeHome.sln
-    ¢u¢w¢w x64
-        ¢|¢w¢w Debug
-            ¢|¢w¢w SeoulRoboticsTakeHome.exe
-    ¢|¢w¢w SeoulRoboticsTakeHome
-        ¢u¢w¢w SeoulRoboticsTakeHome.cpp
-        ¢u¢w¢w algo.cpp
-        ¢|¢w¢w algo.h
+â””â”€â”€ SeoulRobotics_Hung_Yi_Luo
+    â”œâ”€â”€ readme.md
+    â”œâ”€â”€ SeoulRoboticsTakeHome.sln
+    â”œâ”€â”€ x64
+        â””â”€â”€ Debug
+            â””â”€â”€ SeoulRoboticsTakeHome.exe
+    â””â”€â”€ SeoulRoboticsTakeHome
+        â”œâ”€â”€ SeoulRoboticsTakeHome.cpp
+        â”œâ”€â”€ algo.cpp
+        â””â”€â”€ algo.h
+```
